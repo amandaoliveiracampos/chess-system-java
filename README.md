@@ -1,18 +1,32 @@
-## Getting Started
+# Projeto Sistema de Jogo de Xadrez
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/amandaoliveiracampos/course-spring-boot/blob/main/LICENCE)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# Objetivo Geral 
 
-## Folder Structure
+Aplicar os conhecimentos aprendidos até o momento no curso para a construção de um projeto
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+# Tecnologias utilizadas
+## Back-end
+- Java
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
+# Como executar o projeto
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Back-end
+Pré-requisitos: Java 11
+
+```bash
+# clonar repositório
+git clone https://github.com/amandaoliveiracampos/chess-system-java
+
+# executar o projeto
+Na sua IDE abra a classe Application.java e execute.
+```
+
+# Autor
+
+Amanda Oliveira Campos
+
+<a href="https://www.linkedin.com/in/amanda-oliveira-campos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
